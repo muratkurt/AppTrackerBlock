@@ -2,6 +2,8 @@
 
 Blocks app trackers system-wide, Safari included. Nothing is injected into apps.
 
+![AppTrackerBlock](images/promo.jpg)
+
 ## Install
 
 Add `https://muratkurt.github.io/` in Sileo and install **AppTrackerBlock**. Needs PreferenceLoader. CCSupport only for the Control Center button on iOS 15–17.
