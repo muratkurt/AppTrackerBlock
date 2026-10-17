@@ -16,7 +16,8 @@ Add `https://muratkurt.github.io/` in Sileo and install **AppTrackerBlock**. Nee
 ## Features
 
 - **Kernel blocking** — tracker domains are dropped in the network layer, for every app.
-- **App** — today, the last 7 days, every app, company and server country, and a live feed.
+- **App** — Overview, Apps, Trackers, Live and Settings: today, the last 7 and 30 days, every app, company and server country, a real-time feed.
+- **Your rules** — allow a domain everywhere with a long press; turn blocking or Deep mode on and off per app.
 - **Daily report** — at 21:00: what was blocked and which apps reached trackers for the first time.
 - **Quick panel** — from Control Center; pause for 15 minutes or an hour.
 - **Widgets** for the home screen, 9 themes, 12 languages.
