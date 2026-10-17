@@ -20,7 +20,7 @@ Add `https://muratkurt.github.io/` in Sileo and install **AppTrackerBlock**. Nee
 - **Your rules** — allow a domain everywhere or in one app, block your own domains, pause one app for 10 minutes; blocking and Deep mode per app.
 - **Daily report** — at 21:00: what was blocked and which apps reached trackers for the first time.
 - **Quick panel** — from Control Center; pause for 15 minutes or an hour.
-- **Widgets** for the Home Screen (9 themes) and Lock Screen; Shortcuts and a Control Center toggle.
+- **Widgets** for the Home Screen (9 themes) and Lock Screen; Shortcuts.
 - **Categories** — ads, analytics, social, fingerprinting, crash reporting; CSV export.
 - 12 languages.
 - **Deep mode** (optional) for apps with their own network code.
